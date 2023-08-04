@@ -3,10 +3,10 @@
 
 //conversão implicita
     // conventeu as duas const para string
-const numero = 456;
+/*const numero = 456;
 const numeroString = "456";
 
-console.log(numero + numeroString)
+console.log(numero + numeroString)*/
 
 //conversão implícita
     //Number() => se preciso converter para numero
