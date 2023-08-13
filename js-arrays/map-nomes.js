@@ -4,3 +4,4 @@ const nomesPadronizados = nomes.map((nome)=>{
     return nome.toLocaleUpperCase();
 });
 
+console.log
