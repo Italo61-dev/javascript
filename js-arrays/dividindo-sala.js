@@ -7,3 +7,4 @@ const sala2 = alunos.slice(alunos.length/ 2)
 
 console.log (sala1)
 console.log (sala2)
+
