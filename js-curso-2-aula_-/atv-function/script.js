@@ -36,4 +36,4 @@ function numeroXNumero(a){
     return a * a;
 }
 
-console.log(numeroXNumero(3))
+console.log(numeroXNumero(3));
