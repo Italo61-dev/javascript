@@ -80,7 +80,4 @@
 
 // tabuada(3);
 
-<<<<<<< HEAD
-console.log(numeroXNumero(3));
-=======
->>>>>>> 929e1ddbae6eca37bd676e332ab4ca328acb43d4
+// console.log(numeroXNumero(3));
